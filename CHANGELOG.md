@@ -8,6 +8,7 @@ master
 * Migrate from Travis to GitHub Actions
 * Fix deprecated PHP-CS rules
 * Fix deprecations triggered by SonataBlockBundle
+* Allow PHP 8.0
 
 v0.2.0
 ------
